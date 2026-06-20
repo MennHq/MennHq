@@ -1,7 +1,7 @@
-# Hi, I'm Menn (Abdullah) 👋
+# Hi, I'm Menn Maestro(Abdullah Harun) 👋
 ### 14-Year-Old Digital Product Creator & Independent Builder | Operating behind **MENN**
 
-Born on **November 22, 2011**, I realized early on that the traditional educational system wasn't for me. I chose to step away, stop dreaming, and start actively chasing execution. I am a proud Brown, Muslim creator focusing my energy on software development, micro-SaaS architecture, and digital engineering.
+My Name is Abdullah Harun, Professionally Known As Menn Or Menn Maestro . Born on **November 22, 2011**, I realized early on that the traditional educational system wasn't for me. I chose to step away, stop dreaming, and start actively chasing execution. I am a proud Brown, Muslim creator focusing my energy on software development, micro-SaaS architecture, and digital engineering.
 
 ---
 
