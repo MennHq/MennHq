@@ -6,9 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Solo+Digital+Product+Builder;Indie+Entrepreneur+%7C+Vibe+Coder;Dark+UI+%C2%B7+Minimal+%C2%B7+Premium" alt="Typing SVG" />
 </a>
 
-<br>
-
-<img src="https://i.postimg.cc/Y24zkt0b/x-Copy.jpg" width="100%">
+<p>
+Solo digital product builder crafting <b>SaaS platforms</b>, <b>AI-powered tools</b>, and <b>premium dark-UI products</b> — designed, built, and shipped end to end.
+</p>
 
 </div>
 
@@ -57,17 +57,17 @@ I build fast by combining AI-assisted development with a strong design foundatio
 
 **Vibe-Coded, AI-Native Build Process**
 
-<a href="https://claude.ai/"><img src="https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="Claude"/></a>
-<a href="https://aistudio.google.com/"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-ai-studio-icon.png" height="32" style="vertical-align:middle;" alt="Google AI Studio"/> <img src="https://img.shields.io/badge/Google_AI_Studio-0D1117?style=for-the-badge&logoColor=00FFFF" alt="Google AI Studio label"/></a>
-<a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/></a>
-<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=8B5CF6" alt="GitHub"/></a>
-<a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=00FFFF" alt="Supabase"/></a>
-<a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFA000" alt="Firebase"/></a>
-<a href="https://resend.com/"><img src="https://img.shields.io/badge/Resend-0D1117?style=for-the-badge&logo=resend&logoColor=white" alt="Resend"/></a>
-<a href="https://www.brevo.com/"><img src="https://img.shields.io/badge/Brevo-0D1117?style=for-the-badge&logo=brevo&logoColor=0B996E" alt="Brevo"/></a>
-<a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/></a>
-<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/></a>
-<a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="TailwindCSS"/></a>
+<a href="https://claude.ai/" title="Claude — AI pair programmer"><img src="https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="Claude"/></a>
+<a href="https://aistudio.google.com/" title="Google AI Studio — Gemini prototyping"><img src="https://img.shields.io/badge/Google_AI_Studio-0D1117?style=for-the-badge&logo=google&logoColor=4285F4" alt="Google AI Studio"/></a>
+<a href="https://vercel.com/" title="Vercel — Deployment & Hosting"><img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/></a>
+<a href="https://github.com/" title="GitHub — Version Control"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=8B5CF6" alt="GitHub"/></a>
+<a href="https://supabase.com/" title="Supabase — Database & Auth"><img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=00FFFF" alt="Supabase"/></a>
+<a href="https://firebase.google.com/" title="Firebase — Backend Services"><img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFA000" alt="Firebase"/></a>
+<a href="https://resend.com/" title="Resend — Transactional Email"><img src="https://img.shields.io/badge/Resend-0D1117?style=for-the-badge&logo=resend&logoColor=white" alt="Resend"/></a>
+<a href="https://www.brevo.com/" title="Brevo — Email Marketing & Automation"><img src="https://img.shields.io/badge/Brevo-0D1117?style=for-the-badge&logo=brevo&logoColor=0B996E" alt="Brevo"/></a>
+<a href="https://nextjs.org/" title="Next.js — React Framework"><img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/></a>
+<a href="https://www.typescriptlang.org/" title="TypeScript — Typed JavaScript"><img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/></a>
+<a href="https://tailwindcss.com/" title="Tailwind CSS — Utility-first Styling"><img src="https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="TailwindCSS"/></a>
 
 </div>
 
@@ -79,14 +79,14 @@ I build fast by combining AI-assisted development with a strong design foundatio
 
 ### 🔗 Connect
 
-<a href="https://www.linkedin.com/in/mennhq/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFFF" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/mennhq/" title="Connect on LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFFF" alt="MENN Maestro on LinkedIn"/>
 </a>
-<a href="http://youtube.com/@MennHq?sub_confirmation=1">
-  <img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=8B5CF6" alt="YouTube"/>
+<a href="http://youtube.com/@MennHq?sub_confirmation=1" title="Subscribe on YouTube">
+  <img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=8B5CF6" alt="MENN Maestro on YouTube"/>
 </a>
-<a href="https://mennhq.vercel.app/">
-  <img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
+<a href="https://mennhq.vercel.app/" title="Visit Website">
+  <img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="MENN Maestro Website"/>
 </a>
 
 </div>
