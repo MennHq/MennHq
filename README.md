@@ -57,17 +57,17 @@ I build fast by combining AI-assisted development with a strong design foundatio
 
 **Vibe-Coded, AI-Native Build Process**
 
-![Claude](https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=anthropic&logoColor=D97757)
-![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-0D1117?style=for-the-badge&logo=googlegemini&logoColor=00FFFF)
-![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=8B5CF6)
-![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=00FFFF)
-![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFA000)
-![Resend](https://img.shields.io/badge/Resend-0D1117?style=for-the-badge&logo=resend&logoColor=white)
-![Brevo](https://img.shields.io/badge/Brevo-0D1117?style=for-the-badge&logo=brevo&logoColor=0B996E)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+<a href="https://claude.ai/"><img src="https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="Claude"/></a>
+<a href="https://aistudio.google.com/"><img src="https://img.shields.io/badge/Google_AI_Studio-0D1117?style=for-the-badge&logo=googlegemini&logoColor=00FFFF" alt="Google AI Studio"/></a>
+<a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/></a>
+<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=8B5CF6" alt="GitHub"/></a>
+<a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=00FFFF" alt="Supabase"/></a>
+<a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFA000" alt="Firebase"/></a>
+<a href="https://resend.com/"><img src="https://img.shields.io/badge/Resend-0D1117?style=for-the-badge&logo=resend&logoColor=white" alt="Resend"/></a>
+<a href="https://www.brevo.com/"><img src="https://img.shields.io/badge/Brevo-0D1117?style=for-the-badge&logo=brevo&logoColor=0B996E" alt="Brevo"/></a>
+<a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/></a>
+<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/></a>
+<a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="TailwindCSS"/></a>
 
 </div>
 
@@ -88,10 +88,6 @@ I build fast by combining AI-assisted development with a strong design foundatio
 <a href="https://mennhq.vercel.app/">
   <img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=MennHq&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
