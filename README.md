@@ -1,29 +1,45 @@
-# Hi, I'm Menn Maestro(Abdullah Harun) 👋
-### 14-Year-Old Digital Product Creator & Independent Builder | Operating behind **MENN**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Menn%20Maestro&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Entrepreneur&descSize=18&descAlignY=55&textBg=false"/>
 
-My Name is Abdullah Harun, Professionally Known As Menn Or Menn Maestro . Born on **November 22, 2011**, I realized early on that the traditional educational system wasn't for me. I chose to step away, stop dreaming, and start actively chasing execution. I am a proud Brown, Muslim creator focusing my energy on software development, micro-SaaS architecture, and digital engineering.
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=MennHq">
+    <img src="https://komarev.com/ghpvc/?username=MennHq&label=Profile%20views&color=00FFFF&style=flat-square" alt="MennHq's profile views" />
+  </a>
+</p>
 
----
+## 📌 About Me
+- 🎨 Digital Product Designer
+- 🚀 Digital Product Creator
+- 💼 Solo Entrepreneur
 
-## 🎭 About Me & Identity
-* 📅 **Birthdate:** November 22, 2011 (14 Years Old)
-* ✊🏽 **Identity & Culture:** Brown skin tone | Proud Muslim 🌙
-* 🎨 **Aesthetic & Fav Colors:** Total Black & Deep Red (Minimalist, high-performance energy)
-* 🧠 **Mindset:** Chasing, not dreaming. Building systems over chasing degrees.
 
----
+## 🧠 My Focus Areas
+- MoneyMakerMenn
 
-## 🛠️ What I'm Currently Building
-* **FLOWSOP AI** – A digital micro-SaaS engineered to automate standard operating procedures (SOPs) for remote teams. *(In Active Development)*
-* **Kanon** – A premium digital habit-tracking suite and software tool integrated with the Whop infrastructure. *(In Active Development)*
-* **Menn Server Setup** – Automated community structures for streamlined online operations.
 
----
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/MennHq">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MennHq&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="MennHq's GitHub Stats" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=MennHq&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Menn Maestro's GitHub Trophies" />
+</p>
 
-## 🔗 Connect & Follow My Journey
-* 🌐 **Official Brand Site:** [mennhq.vercel.app](https://mennhq.vercel.app/)
-* 💼 **Founder Profile:** [Crunchbase](https://www.crunchbase.com/person/menn-maestro)
-* 📝 **Read My Story:** [Medium](https://medium.com/@MennHq)
 
----
-*"Verily, with hardship comes ease." — Building the future, one line of code at a time.*
+## 🛠️ Languages & Tools
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/mennhq/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Menn Maestro's LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="http://youtube.com/@MennHq?sub_confirmation=1"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&color=FF00FF" alt="Menn Maestro's YouTube"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://mennhq.vercel.app/"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+</picture>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
