@@ -8,7 +8,7 @@
 
 <br>
 
-![divider](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+<img src="https://i.postimg.cc/Y24zkt0b/x-Copy.jpg" width="100%">
 
 </div>
 
@@ -49,7 +49,7 @@ I build fast by combining AI-assisted development with a strong design foundatio
 
 <br>
 
-![divider](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+
 
 ## 🛠️ The Stack
 
@@ -73,7 +73,7 @@ I build fast by combining AI-assisted development with a strong design foundatio
 
 <br>
 
-![divider](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+
 
 <div align="center">
 
