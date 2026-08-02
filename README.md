@@ -58,7 +58,7 @@ I build fast by combining AI-assisted development with a strong design foundatio
 **Vibe-Coded, AI-Native Build Process**
 
 <a href="https://claude.ai/"><img src="https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="Claude"/></a>
-<a href="https://aistudio.google.com/"><img src="https://img.shields.io/badge/Google_AI_Studio-0D1117?style=for-the-badge&logo=google&logoColor=4285F4" alt="Google AI Studio"/></a>
+<a href="https://aistudio.google.com/"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-ai-studio-icon.png" height="32" style="vertical-align:middle;" alt="Google AI Studio"/> <img src="https://img.shields.io/badge/Google_AI_Studio-0D1117?style=for-the-badge&logoColor=00FFFF" alt="Google AI Studio label"/></a>
 <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/></a>
 <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=8B5CF6" alt="GitHub"/></a>
 <a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=00FFFF" alt="Supabase"/></a>
