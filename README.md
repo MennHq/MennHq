@@ -2,88 +2,82 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20,29&text=MENN%20MAESTRO&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20Digital%20Products%20That%20Actually%20Ship&descSize=16&descAlignY=55&textBg=false"/>
 
-<a href="https://mennhq.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Solo+Indie+Builder+%7C+Sargodha%2C+Pakistan;Shipping+SaaS+%2B+Digital+Products;Dark+UI+%7C+Minimal+%7C+Premium" alt="Typing SVG" />
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Solo+Digital+Product+Builder;Indie+Entrepreneur+%7C+Vibe+Coder;Dark+UI+%C2%B7+Minimal+%C2%B7+Premium" alt="Typing SVG" />
 </a>
 
-</div>
-
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## ⚡ About Me
-
-```yaml
-name: MENN Maestro
-role: Solo Digital Product Builder / Indie Entrepreneur
-based_in: Sargodha, Punjab, Pakistan
-focus: [SaaS, Trackers, AI Tools, Automation]
-design_language: dark-ui, glassmorphism, cyan-purple gradients
-currently: shipping v1 of multiple products solo
-```
-
-- 🛠️ Building **premium, dark-UI digital products** — trackers, SaaS tools, AI-powered apps
-- 🚀 Currently building **[Kanon](https://mennhq.vercel.app/)** — an AI-powered habit tracker with a premium dark UI
-- ⚙️ Also building **FLOWSOP AI** — an AI SOP generator for agencies & remote teams
-- 🎬 Running a video/content pipeline exploring AI-generated media
-- ♟️ Chess player, gamer, and full-time builder in public
-
-<br>
-
-## 🧠 What I'm Working On
-
-<div align="center">
-
-| Product | What it does | Status |
-|---|---|---|
-| **Kanon** | AI-coached habit tracker, dark premium UI | 🔧 Pre-launch |
-| **FLOWSOP AI** | Turns workflow videos into SOPs & checklists | 🔧 In development |
-| **ClipeX Clips** | Premium video studio for creators | 🟢 Live |
+![divider](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 </div>
 
 <br>
 
-## 📊 GitHub Stats
-
 <div align="center">
+<table>
+<tr>
+<td>
 
-<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MennHq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=8B5CF6&text_color=c9d1d9" alt="Menn's GitHub Stats"/>
-<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MennHq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=c9d1d9" alt="Top Langs"/>
+### ⚡ About Me
 
-</div>
+I design and ship **premium, dark-UI digital products** — solo, end to end. Product, brand, code, launch.
 
-<div align="center">
+My work leans minimal and intentional: soft gradients, glassmorphism, cyan/purple accents — nothing generic, nothing templated.
 
-<img src="https://trophy.ryglcloud.net/?username=MennHq&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Menn Maestro's GitHub Trophies" />
+I build fast by combining AI-assisted development with a strong design foundation, taking products from a blank canvas to a polished, production-ready release.
 
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MennHq&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<br>
-
-## 🧰 Stack
-
-<div align="center">
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00FFFF)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=8B5CF6)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=00FFFF)
-![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=8B5CF6)
-![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=00FFFF)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
+</td>
+</tr>
+</table>
 </div>
 
 <br>
 
-## 🔗 Connect
+## 🧩 What I Do
 
 <div align="center">
+
+| | |
+|---|---|
+| 🎨 **Product Design** | Dark, premium UI systems — built for products people actually want to use |
+| ⚙️ **Full-Stack Build** | From idea to shipped product, solo — architecture, frontend, backend |
+| 🤖 **AI-Native Workflow** | Building at speed with AI as a core part of the development process |
+| 🚀 **Launch & Ship** | Not a portfolio of prototypes — products that go live |
+
+</div>
+
+<br>
+
+![divider](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+
+## 🛠️ The Stack
+
+<div align="center">
+
+**Vibe-Coded, AI-Native Build Process**
+
+![Claude](https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=anthropic&logoColor=D97757)
+![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-0D1117?style=for-the-badge&logo=googlegemini&logoColor=00FFFF)
+![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=8B5CF6)
+![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=00FFFF)
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFA000)
+![Resend](https://img.shields.io/badge/Resend-0D1117?style=for-the-badge&logo=resend&logoColor=white)
+![Brevo](https://img.shields.io/badge/Brevo-0D1117?style=for-the-badge&logo=brevo&logoColor=0B996E)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+
+</div>
+
+<br>
+
+![divider](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+
+<div align="center">
+
+### 🔗 Connect
 
 <a href="https://www.linkedin.com/in/mennhq/">
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFFF" alt="LinkedIn"/>
@@ -95,8 +89,10 @@ currently: shipping v1 of multiple products solo
   <img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
 </a>
 
-</div>
+<br><br>
 
-<br>
+<img src="https://komarev.com/ghpvc/?username=MennHq&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=29,20,11,6&section=footer"/>
